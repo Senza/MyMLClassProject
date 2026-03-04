@@ -1,0 +1,61 @@
+jobId,name,submissionTime,completionTime,stageIds,jobTags,status,numTasks,numActiveTasks,numCompletedTasks,numSkippedTasks,numFailedTasks,numKilledTasks,numCompletedIndices,numActiveStages,numCompletedStages,numSkippedStages,numFailedStages
+59,showString at NativeMethodAccessorImpl.java:0,2026-03-03T22:07:44.955GMT,2026-03-03T22:07:45.022GMT,[98],[],SUCCEEDED,1,0,1,0,0,0,1,0,1,0,0
+58,parquet at NativeMethodAccessorImpl.java:0,2026-03-03T22:06:47.649GMT,2026-03-03T22:07:42.779GMT,[97],[],SUCCEEDED,25,0,25,0,0,0,25,0,1,0,0
+57,showString at NativeMethodAccessorImpl.java:0,2026-03-03T22:06:44.877GMT,2026-03-03T22:06:45.473GMT,"[96, 95]",[],SUCCEEDED,26,0,1,25,0,0,1,0,1,1,0
+56,showString at NativeMethodAccessorImpl.java:0,2026-03-03T22:05:52.732GMT,2026-03-03T22:06:44.744GMT,[94],[],SUCCEEDED,25,0,25,0,0,0,25,0,1,0,0
+55,approxQuantile at <unknown>:0,2026-03-03T22:05:46.367GMT,2026-03-03T22:05:51.948GMT,"[93, 92]",[],SUCCEEDED,30,0,30,0,0,0,30,0,2,0,0
+54,approxQuantile at <unknown>:0,2026-03-03T22:05:40.655GMT,2026-03-03T22:05:46.121GMT,"[90, 91]",[],SUCCEEDED,30,0,30,0,0,0,30,0,2,0,0
+53,approxQuantile at <unknown>:0,2026-03-03T22:05:34.468GMT,2026-03-03T22:05:40.336GMT,"[88, 89]",[],SUCCEEDED,30,0,30,0,0,0,30,0,2,0,0
+52,approxQuantile at <unknown>:0,2026-03-03T22:05:24.893GMT,2026-03-03T22:05:34.188GMT,"[86, 87]",[],SUCCEEDED,30,0,30,0,0,0,30,0,2,0,0
+51,approxQuantile at <unknown>:0,2026-03-03T22:05:17.862GMT,2026-03-03T22:05:23.464GMT,"[84, 85]",[],SUCCEEDED,30,0,30,0,0,0,30,0,2,0,0
+50,approxQuantile at <unknown>:0,2026-03-03T22:05:13.577GMT,2026-03-03T22:05:17.630GMT,"[82, 83]",[],SUCCEEDED,30,0,30,0,0,0,30,0,2,0,0
+49,approxQuantile at NativeMethodAccessorImpl.java:0,2026-03-03T22:05:06.372GMT,2026-03-03T22:05:13.372GMT,"[81, 80]",[],SUCCEEDED,30,0,30,0,0,0,30,0,2,0,0
+48,approxQuantile at NativeMethodAccessorImpl.java:0,2026-03-03T22:05:02.644GMT,2026-03-03T22:05:06.232GMT,"[78, 79]",[],SUCCEEDED,30,0,30,0,0,0,30,0,2,0,0
+47,approxQuantile at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:58.423GMT,2026-03-03T22:05:02.502GMT,"[76, 77]",[],SUCCEEDED,30,0,30,0,0,0,30,0,2,0,0
+46,approxQuantile at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:53.288GMT,2026-03-03T22:04:58.216GMT,"[74, 75]",[],SUCCEEDED,30,0,30,0,0,0,30,0,2,0,0
+45,approxQuantile at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:47.380GMT,2026-03-03T22:04:53.108GMT,"[72, 73]",[],SUCCEEDED,30,0,30,0,0,0,30,0,2,0,0
+44,collect at C:\Users\senza\AppData\Local\Temp\ipykernel_13688\324518572.py:7,2026-03-03T22:04:47.025GMT,2026-03-03T22:04:47.102GMT,"[70, 71]",[],SUCCEEDED,26,0,1,25,0,0,1,0,1,1,0
+43,collect at C:\Users\senza\AppData\Local\Temp\ipykernel_13688\324518572.py:7,2026-03-03T22:04:45.499GMT,2026-03-03T22:04:46.984GMT,[69],[],SUCCEEDED,25,0,25,0,0,0,25,0,1,0,0
+42,showString at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:44.934GMT,2026-03-03T22:04:45.015GMT,[68],[],SUCCEEDED,1,0,1,0,0,0,1,0,1,0,0
+41,count at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:44.751GMT,2026-03-03T22:04:44.804GMT,"[66, 67]",[],SUCCEEDED,26,0,1,25,0,0,1,0,1,1,0
+40,count at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:44.209GMT,2026-03-03T22:04:44.730GMT,[65],[],SUCCEEDED,25,0,25,0,0,0,25,0,1,0,0
+39,approxQuantile at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:40.894GMT,2026-03-03T22:04:44.084GMT,"[63, 64]",[],SUCCEEDED,30,0,30,0,0,0,30,0,2,0,0
+38,count at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:40.782GMT,2026-03-03T22:04:40.843GMT,"[61, 62]",[],SUCCEEDED,26,0,1,25,0,0,1,0,1,1,0
+37,count at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:40.395GMT,2026-03-03T22:04:40.764GMT,[60],[],SUCCEEDED,25,0,25,0,0,0,25,0,1,0,0
+36,approxQuantile at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:37.332GMT,2026-03-03T22:04:40.251GMT,"[58, 59]",[],SUCCEEDED,30,0,30,0,0,0,30,0,2,0,0
+35,count at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:37.231GMT,2026-03-03T22:04:37.284GMT,"[56, 57]",[],SUCCEEDED,26,0,1,25,0,0,1,0,1,1,0
+34,count at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:36.112GMT,2026-03-03T22:04:37.218GMT,[55],[],SUCCEEDED,25,0,25,0,0,0,25,0,1,0,0
+33,approxQuantile at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:33.434GMT,2026-03-03T22:04:35.992GMT,"[53, 54]",[],SUCCEEDED,30,0,30,0,0,0,30,0,2,0,0
+32,count at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:33.353GMT,2026-03-03T22:04:33.386GMT,"[51, 52]",[],SUCCEEDED,26,0,1,25,0,0,1,0,1,1,0
+31,count at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:32.716GMT,2026-03-03T22:04:33.331GMT,[50],[],SUCCEEDED,25,0,25,0,0,0,25,0,1,0,0
+30,approxQuantile at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:27.621GMT,2026-03-03T22:04:32.575GMT,"[48, 49]",[],SUCCEEDED,30,0,30,0,0,0,30,0,2,0,0
+29,count at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:27.504GMT,2026-03-03T22:04:27.546GMT,"[46, 47]",[],SUCCEEDED,26,0,1,25,0,0,1,0,1,1,0
+28,count at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:26.887GMT,2026-03-03T22:04:27.487GMT,[45],[],SUCCEEDED,25,0,25,0,0,0,25,0,1,0,0
+27,approxQuantile at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:24.156GMT,2026-03-03T22:04:26.664GMT,"[43, 44]",[],SUCCEEDED,30,0,30,0,0,0,30,0,2,0,0
+26,count at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:24.039GMT,2026-03-03T22:04:24.102GMT,"[42, 41]",[],SUCCEEDED,26,0,1,25,0,0,1,0,1,1,0
+25,count at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:23.445GMT,2026-03-03T22:04:24.023GMT,[40],[],SUCCEEDED,25,0,25,0,0,0,25,0,1,0,0
+24,approxQuantile at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:20.399GMT,2026-03-03T22:04:23.234GMT,"[38, 39]",[],SUCCEEDED,30,0,30,0,0,0,30,0,2,0,0
+23,count at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:20.283GMT,2026-03-03T22:04:20.332GMT,"[37, 36]",[],SUCCEEDED,26,0,1,25,0,0,1,0,1,1,0
+22,count at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:19.732GMT,2026-03-03T22:04:20.265GMT,[35],[],SUCCEEDED,25,0,25,0,0,0,25,0,1,0,0
+21,approxQuantile at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:14.955GMT,2026-03-03T22:04:19.480GMT,"[33, 34]",[],SUCCEEDED,30,0,30,0,0,0,30,0,2,0,0
+20,count at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:14.796GMT,2026-03-03T22:04:14.851GMT,"[31, 32]",[],SUCCEEDED,26,0,1,25,0,0,1,0,1,1,0
+19,count at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:14.344GMT,2026-03-03T22:04:14.777GMT,[30],[],SUCCEEDED,25,0,25,0,0,0,25,0,1,0,0
+18,approxQuantile at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:11.215GMT,2026-03-03T22:04:14.221GMT,"[28, 29]",[],SUCCEEDED,30,0,30,0,0,0,30,0,2,0,0
+17,count at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:11.061GMT,2026-03-03T22:04:11.152GMT,"[27, 26]",[],SUCCEEDED,26,0,1,25,0,0,1,0,1,1,0
+16,count at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:10.485GMT,2026-03-03T22:04:11.031GMT,[25],[],SUCCEEDED,25,0,25,0,0,0,25,0,1,0,0
+15,approxQuantile at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:06.490GMT,2026-03-03T22:04:10.267GMT,"[24, 23]",[],SUCCEEDED,30,0,30,0,0,0,30,0,2,0,0
+14,count at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:06.346GMT,2026-03-03T22:04:06.401GMT,"[21, 22]",[],SUCCEEDED,26,0,1,25,0,0,1,0,1,1,0
+13,count at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:05.764GMT,2026-03-03T22:04:06.323GMT,[20],[],SUCCEEDED,25,0,25,0,0,0,25,0,1,0,0
+12,approxQuantile at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:00.577GMT,2026-03-03T22:04:05.488GMT,"[19, 18]",[],SUCCEEDED,30,0,30,0,0,0,30,0,2,0,0
+11,count at NativeMethodAccessorImpl.java:0,2026-03-03T22:04:00.329GMT,2026-03-03T22:04:00.411GMT,"[16, 17]",[],SUCCEEDED,26,0,1,25,0,0,1,0,1,1,0
+10,count at NativeMethodAccessorImpl.java:0,2026-03-03T22:03:59.456GMT,2026-03-03T22:04:00.300GMT,[15],[],SUCCEEDED,25,0,25,0,0,0,25,0,1,0,0
+9,approxQuantile at NativeMethodAccessorImpl.java:0,2026-03-03T22:03:50.124GMT,2026-03-03T22:03:58.214GMT,"[13, 14]",[],SUCCEEDED,30,0,30,0,0,0,30,0,2,0,0
+8,count at NativeMethodAccessorImpl.java:0,2026-03-03T22:03:49.114GMT,2026-03-03T22:03:49.180GMT,"[12, 10, 11]",[],SUCCEEDED,51,0,1,50,0,0,1,0,1,2,0
+7,count at NativeMethodAccessorImpl.java:0,2026-03-03T22:03:26.462GMT,2026-03-03T22:03:49.072GMT,"[9, 8]",[],SUCCEEDED,50,0,25,25,0,0,25,0,1,1,0
+6,count at NativeMethodAccessorImpl.java:0,2026-03-03T22:02:14.605GMT,2026-03-03T22:03:26.287GMT,[7],[],SUCCEEDED,25,0,25,0,0,0,25,0,1,0,0
+5,count at NativeMethodAccessorImpl.java:0,2026-03-03T22:02:13.154GMT,2026-03-03T22:02:13.339GMT,"[5, 6]",[],SUCCEEDED,26,0,1,25,0,0,1,0,1,1,0
+4,count at NativeMethodAccessorImpl.java:0,2026-03-03T22:02:04.277GMT,2026-03-03T22:02:13.063GMT,[4],[],SUCCEEDED,25,0,25,0,0,0,25,0,1,0,0
+3,showString at NativeMethodAccessorImpl.java:0,2026-03-03T22:02:02.656GMT,2026-03-03T22:02:03.481GMT,[3],[],SUCCEEDED,1,0,1,0,0,0,1,0,1,0,0
+2,showString at NativeMethodAccessorImpl.java:0,2026-03-03T21:55:23.723GMT,2026-03-03T22:02:02.498GMT,[2],[],SUCCEEDED,25,0,25,0,0,0,25,0,1,0,0
+1,showString at NativeMethodAccessorImpl.java:0,2026-03-03T21:55:20.645GMT,2026-03-03T21:55:20.947GMT,[1],[],SUCCEEDED,1,0,1,0,0,0,1,0,1,0,0
+0,showString at NativeMethodAccessorImpl.java:0,2026-03-03T21:53:42.569GMT,2026-03-03T21:55:20.279GMT,[0],[],SUCCEEDED,25,0,25,0,0,0,25,0,1,0,0

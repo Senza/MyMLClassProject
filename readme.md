@@ -29,7 +29,8 @@ This project utilizes the **NYC Yellow Taxi Trip Records**, which provide millio
 # Recommended Directory Structure
 .
 ├── data/
-│   └── yellow_tripdata_2024-01.parquet
+│   └── raw/
+│       └── yellow_tripdata_2023.parquet
 ├── models/             # Saved PipelineModels
 ├── checkpoints/        # GBT Lineage truncation
 ├── main_pipeline.py    # Main execution script
